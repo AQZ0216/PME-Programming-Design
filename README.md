@@ -1,2 +1,7 @@
 # PME_programming_design
-  * assignmext 5 - sorting
+  ## assignment 5
+  * sorting
+  ## pratice 2
+  * 1 - Automatic Editing
+  * 2 - AI
+  * 3 - Number Chains
