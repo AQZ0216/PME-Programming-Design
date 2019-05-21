@@ -51,6 +51,7 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+
 # Windows thumbnail cache files
 Thumbs.db
 Thumbs.db:encryptable
