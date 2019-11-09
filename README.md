@@ -1,4 +1,4 @@
-# PME_programming_design
+# PME-Programming-Design
   ## assignment 5
   * sorting
   ## practice 2
